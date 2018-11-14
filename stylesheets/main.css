@@ -1,0 +1,13 @@
+.header h1 {
+  background: maroon;
+  font-size: 40px;
+  font-family: sans-serif;
+}
+
+p {
+  font-size: 17px;
+}
+
+.footer p {
+  background: grey;
+}
