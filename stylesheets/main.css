@@ -1,32 +1,52 @@
-.header h1 {
+h1 {
   background: maroon;
   font-size: 40px;
   font-family: sans-serif;
+  padding-top: 10px;
+  padding-bottom: 5px;
+  text-align: left;
 }
 
 p {
   font-size: 17px;
 }
+h3 {font-weight: bold;
+    font-size: 24px
+  }
 
-.img {
+.main_img {
+  padding: 25px;
   float: left;
-  margin: 3.5%;
 }
-
 .img_1 {
-  float: right;
-  margin: 3.5%;
+    float: right;
+    padding-left: 100px;
+    padding-right: 50px;
+    padding-top: 25px;
+    padding-bottom: 60px;
 }
 .img_2 {
   float: right;
-  margin: 3.5%;
+  padding-left: 100px;
+  padding-right: 50px;
+  padding-top: 25px;
+  padding-bottom: 50px;
 }
 .img_3 {
   float: right;
-  margin: 3.5%;
+  padding-left: 100px;
+  padding-right: 50px;
+  padding-top: 25px;
+  padding-bottom: 25px;
 }
 
-.body h3 {
+h4 {
+  font-weight: bold;
+  font-family: sans-serif;
+  padding: 5px;
+}
+
+.museum_info h3 {
   font-size: 20px;
   font-family: sans-serif;
 }
