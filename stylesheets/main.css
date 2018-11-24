@@ -1,3 +1,38 @@
+body {
+  font-family: sans-serif;
+}
+
+h1 {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+header div {
+  display: flex;
+  background-color: maroon;
+  padding: 10px 20px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+header nav {
+  background-color: grey;
+  padding: 10px 20px;
+  display: flex;
+  justify-content: flex-end;
+}
+
 main {
   display: flex;
 }
@@ -8,7 +43,6 @@ main {
 
 section {
   padding: 20px;
-  margin: 10px;
 }
 
 .left {
