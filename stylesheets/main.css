@@ -5,6 +5,7 @@ body {
 h1 {
   font-size: 30px;
   font-weight: bold;
+  color: white;
 }
 
 h2 {
@@ -56,4 +57,9 @@ section {
 aside:nth-child(2) {
   margin-top: 75px;
   margin-bottom: 75px;
+}
+
+footer {
+  background-color: grey;
+  padding: 10px 20px;
 }
